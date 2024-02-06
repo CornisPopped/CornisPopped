@@ -5,7 +5,7 @@ I'm Shahhill (He/They) - a computer science student at [Fordham University](http
 
 ## Interests
 - Web Programming | HTML/CSS
-- Game Development | Spriting | Audio Engineering
+- Game Development | Spriting | Audio Engineering | 3D Animation
 - Competitive Programming | C++
 
 
@@ -18,7 +18,7 @@ I'm Shahhill (He/They) - a computer science student at [Fordham University](http
   <img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="40" />
   <img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="Docker" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_Aseprite.png" alt="Asesprite" width="40" />
-  <img src="https://cdn3.emoji.gg/emojis/2852-sfm.png)](https://emoji.gg/emoji/2852-sfm" alt="SourceFilmmaker" width="40" />
+  <img src="https://www.sourcefilmmaker.com/images/sfm_logo.png" alt="SFM" width="100" />
 </p>
 
 
