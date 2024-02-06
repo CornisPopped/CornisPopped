@@ -1,5 +1,5 @@
 # Hey!👋
-I'm Shahhill (He/They) - a computer science student at [Fordham University](https://www.fordham.edu/). I'm interested in web and game development.
+I'm Shahhill (He/They) - a computer science student at [Fordham University](https://www.fordham.edu/).
 
 **Looking for internships, new opportunities, or open source projects to contribute to!**
 
@@ -7,6 +7,7 @@ I'm Shahhill (He/They) - a computer science student at [Fordham University](http
 - Web Programming | HTML/CSS
 - Game Development | Spriting | Audio Engineering | 3D Animation
 - Competitive Programming | C++
+- Cybersecurity and AI Ethics
 
 
 ## Languages and Tools
