@@ -3,12 +3,12 @@ I'm Shahhill (He/They) - a computer science student at [Fordham University](http
 
 **Looking for internships, new opportunities, or open source projects to contribute to!**
 
-## Interests
+## 💡 Interests
 - Web Programming | HTML/CSS
 - Game Development | Spriting | Audio Engineering
 - Competitive Programming | C++
 
-## My Skills
+## ⚡ My Skills
 Skills I've learned along the way:
 
 - HTML | CSS
