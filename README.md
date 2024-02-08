@@ -24,5 +24,5 @@ I'm Shahhill (He/They) - a computer science student at [Fordham University](http
 </p>
 
 ### 📫 Let's Connect!
-LinkedIn - [Shahhill Islam](https://www.linkedin.com/in/shahslam) <br>
+[![Shahhill Islam's LinkedIn](https://img.shields.io/badge/Shahhill_Islam-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shahslam)
 or shoot me an [email!](mailto:sislam43092@gmail.com)
