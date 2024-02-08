@@ -2,7 +2,7 @@
 Computer Science Junior at [Fordham University](https://www.fordham.edu/).
 
 
-**Looking for internships, new opportunities, or open source projects to contribute to!**
+**Looking for internships, new opportunities, or open source projects to contribute to!**<br>
 [![Shahhill Islam's LinkedIn](https://img.shields.io/badge/-Shahhill_Islam-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shahslam/)](https://www.linkedin.com/in/shahslam/)
 [![Gmail](https://img.shields.io/badge/Gmail-sislam43092%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sislam43092@gmail.com)
 
