@@ -1,7 +1,10 @@
-# <p align="center"> Welcome to my GitHub!👋 </p>
-I'm Shahhill (He/They) - a computer science student at [Fordham University](https://www.fordham.edu/).
+# <p align="center"> Howdy!👋 </p>
+Computer Science Junior at [Fordham University](https://www.fordham.edu/).
+
 
 **Looking for internships, new opportunities, or open source projects to contribute to!**
+[![Shahhill Islam's LinkedIn](https://img.shields.io/badge/-Shahhill_Islam-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/shahslam/)](https://www.linkedin.com/in/shahslam/)
+[![Gmail](https://img.shields.io/badge/Gmail-sislam43092%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sislam43092@gmail.com)
 
 ## Interests and Hobbies
 - Web Programming | HTML/CSS
@@ -24,5 +27,5 @@ I'm Shahhill (He/They) - a computer science student at [Fordham University](http
 </p>
 
 ### 📫 Let's Connect!
-[![Shahhill Islam's LinkedIn](https://img.shields.io/badge/Shahhill_Islam-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shahslam)
-or shoot me an [email!](mailto:sislam43092@gmail.com)
+
+
