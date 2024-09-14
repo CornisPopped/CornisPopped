@@ -1,5 +1,5 @@
 # Hey, I'm Shahhill Islam!👋 </p>
-Computer Science Junior at [Fordham University](https://www.fordham.edu/).
+Computer Science senior at [Fordham University](https://www.fordham.edu/).
 
 **Looking for internships, new opportunities, or open source projects to contribute to!**
 
